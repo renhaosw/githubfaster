@@ -1,0 +1,7 @@
+__pycache__/
+dist/
+.vscode/
+build/
+githubhelper.spec
+*.swp
+*.pyc
